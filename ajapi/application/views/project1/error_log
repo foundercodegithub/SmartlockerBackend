@@ -1,0 +1,10 @@
+[27-Feb-2023 06:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/founderc/inaequalis.foundercodes.com/code3/application/views/project1/sidebar.php:4
+Stack trace:
+#0 /home1/founderc/inaequalis.foundercodes.com/code3/application/views/project1/index.php(1): include()
+#1 {main}
+  thrown in /home1/founderc/inaequalis.foundercodes.com/code3/application/views/project1/sidebar.php on line 4
+[27-Feb-2023 06:34:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home1/founderc/inaequalis.foundercodes.com/code3/application/views/project1/sidebar.php:4
+Stack trace:
+#0 /home1/founderc/inaequalis.foundercodes.com/code3/application/views/project1/index.php(1): include()
+#1 {main}
+  thrown in /home1/founderc/inaequalis.foundercodes.com/code3/application/views/project1/sidebar.php on line 4

@@ -1,0 +1,6 @@
+[24-Feb-2023 06:06:08 UTC] PHP Notice:  Array to string conversion in /home1/founderc/nk.codescarts.com/Api/outhlogin/curl.php on line 15
+[24-Feb-2023 06:07:41 UTC] PHP Notice:  Undefined index: access_token in /home1/founderc/nk.codescarts.com/Api/outhlogin/curl.php on line 15
+[24-Feb-2023 06:20:46 UTC] PHP Notice:  Undefined index: access_token in /home1/founderc/nk.codescarts.com/Api/outhlogin/curl.php on line 15
+[24-Feb-2023 09:47:14 UTC] PHP Notice:  Undefined index: access_token in /home1/founderc/nk.codescarts.com/Api/outhlogin/curl.php on line 15
+[24-Feb-2023 10:00:43 UTC] PHP Notice:  Undefined variable: curl in /home1/founderc/nk.codescarts.com/Api/outhlogin/curl.php on line 6
+[24-Feb-2023 10:00:43 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home1/founderc/nk.codescarts.com/Api/outhlogin/curl.php on line 6
